@@ -1,1 +1,1 @@
-Repository containing files for a wip portfolio
+Repository containing files for a portfolio
